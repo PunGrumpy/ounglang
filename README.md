@@ -1,5 +1,9 @@
 <div align="center">
     <h1>🦭 Oung Programming Language</h1>
+    <p>A programming language inspired by the sound of seals</p>
+    <div>
+        <img src="https://oung-editor.vercel.app/img/logo.d0932907.png" alt="Seal" width="40%">
+    </div>
 </div>
 
 ## 📜 Introduction
